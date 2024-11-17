@@ -51,6 +51,8 @@ Python 3.x
 
 
 # Sample Output
+
+```bash
 Roll the dice? (y/n): y
 How many dice would you like to roll? (1 or 2): 2
 You rolled: (4, 3)
@@ -61,7 +63,7 @@ You rolled: (6)
 
 Roll the dice? (y/n): n
 Thanks for playing! You rolled the dice 3 times.
-
+```
 
 # Future Enhancements
 
